@@ -2,7 +2,3 @@
 
 require_relative '../lib/move.rb'
 
-
-user_input = gets.strip
-
-move(input_to_index)
