@@ -8,8 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index = (user_input).to_i + 1
-end
+input_to_index = (user_input).to_i + 1
 
-def user_input = gets.strip
-end
+user_input = gets.strip
