@@ -11,6 +11,3 @@ end
 input_to_index = [user_input.to_i] + 1
 
 user_input = gets.strip
-
-
-
