@@ -7,9 +7,8 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-user_input = gets.strip
 
-def input_to_index = [user_input.to_i] - 1
-end
 
-move = board[input_to_index]
+input_to_index = [user_input.to_i] - 1
+
+position = board[user_input]
